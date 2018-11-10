@@ -1,6 +1,6 @@
 # TSquare-Responsive-Website
 A simple website design made with responsive design for mobile-friendly viewing.<br/>
-A <a href="https://oxcorp.github.io/TSquare-Responsive-Website/">live demo</a> is available.
+A <a href="https://jesse-holden.github.io/TSquare-Responsive-Website/">live demo</a> is available.
 <br/><br/>
 
 Credits:<br/>
